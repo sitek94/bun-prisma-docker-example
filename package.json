@@ -1,6 +1,6 @@
 {
   "name": "bun-prisma-docker-example",
-  "module": "index.ts",
+  "module": "src/index.ts",
   "type": "module",
   "scripts": {
     "dev": "bun --watch index.ts"
